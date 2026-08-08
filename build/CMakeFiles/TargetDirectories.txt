@@ -1,0 +1,6 @@
+/home/dell/RISCV-Simulator/build/CMakeFiles/Simulator.dir
+/home/dell/RISCV-Simulator/build/CMakeFiles/CacheSim.dir
+/home/dell/RISCV-Simulator/build/CMakeFiles/CacheOptimized.dir
+/home/dell/RISCV-Simulator/build/CMakeFiles/ToDirenoTrace.dir
+/home/dell/RISCV-Simulator/build/CMakeFiles/edit_cache.dir
+/home/dell/RISCV-Simulator/build/CMakeFiles/rebuild_cache.dir
