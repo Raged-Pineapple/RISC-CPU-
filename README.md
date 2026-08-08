@@ -40,11 +40,5 @@ Parameters:
 
 There are a number of reference RISC-V ELFs and its corresponding assembly code in the `riscv-elf/` folder.
 
-## Documentation (In Chinese)
-
-See the `doc/` folder.
-
-Also, you can see the corresponding [blog](https://hehao98.github.io/posts/2019/03/riscv-simulator/).
-
 
 
